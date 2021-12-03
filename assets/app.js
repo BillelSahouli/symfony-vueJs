@@ -10,4 +10,3 @@ import './styles/app.css';
 console.log('Hello Webpack Encore! Edit me in assets/app.js');
 // start the Stimulus application
 import './bootstrap';
-
